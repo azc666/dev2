@@ -1,0 +1,106 @@
+body {
+    /* background: yellowgreen; */
+    /* background: rgba(51,255,0,0.25); */
+    background: url("assets/BC-FranklinStreet_blank_template.jpg");
+}
+/* span.size {
+    max-width: 500px;
+    margin: auto;
+    border: 1pt solid #73ad21;
+} */
+.bc_name {
+    position: absolute;
+    /* color: rgba(158,201,148,0.015); */
+    /* color: orange; */
+    color: black;
+    font-size: 24px;
+    margin: 0mm 0mm 0mm 0mm;
+    padding: 5.37mm 0mm 0mm, 18.5mm;
+    font-family: "tradegothiccond", serif;
+    font-weight: bold;
+}
+.bc_title {
+    position: absolute;
+    /* color: orange; */
+    color: black;
+    font-size: 12.5px;
+    margin: 0;
+    padding: 13mm 0mm 0mm 18.5mm;
+    font-family: "tradegothiccond", serif;
+    font-weight: bold;
+}
+.bc_email {
+    position: absolute;
+    /* color: orange; */
+    color: black;
+    font-size: 10.68px;
+    margin: 0;
+    padding: 17.5mm 0mm 0mm 18.5mm;
+    font-family: "tradegothiccond", serif;
+    /* font-weight: bold; */
+}
+.bc_prop_website {
+    position: absolute;
+    /* color: orange; */
+    color: black;
+    font-size: 10.68px;
+    margin: 0;
+    padding: 20.75mm 0mm 0mm 18.5mm;
+    font-family: "tradegothiccond", serif;
+    /* font-weight: bold; */
+}
+.bc_phone {
+    position: absolute;
+    /* color: orange; */
+    color: white;
+    font-size: 10.68px;
+    margin: 0;
+    padding: 26.25mm 0mm 0mm 12.75mm;
+    font-family: "tradegothiccond", serif;
+    line-height: 120%;
+    /* font-weight: bold; */
+}
+.bc_address {
+    position: absolute;
+    /* color: orange; */
+    color: white;
+    font-size: 10.68px;
+    margin: 0;
+    padding: 29.5mm 0mm 0mm 52.8mm;
+    font-family: "tradegothiccond", serif;
+    line-height: 120%;
+    /* font-weight: bold; */
+}
+.bc_address2 {
+    position: absolute;
+    /* color: orange; */
+    color: white;
+    font-size: 10.68px;
+    margin: 0;
+    padding: 28.25mm 0mm 0mm 52.8mm;
+    font-family: "tradegothiccond", serif;
+    line-height: 120%;
+    /* font-weight: bold; */
+}
+.bc_footer {
+    position: absolute;
+    color: orange;
+    font-size: 8.7px;
+    margin: 0;
+    padding: 44.5mm 0mm 0mm 5.85mm;
+    font-family: "tradegothiccond", serif;
+    /* line-height: 120%; */
+    /* font-weight: bold; */
+}
+span.bc_footer_website {
+    font-weight: bold;
+}
+
+.font {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: "Nunito", sans-serif;
+    font-weight: 600;
+    /* height: 100vh; */
+    margin: 0;
+}
