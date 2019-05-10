@@ -95,7 +95,7 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a> --}}
       <a href={{ url('bcards/create') }}>Enter BC Data</a>
-      <a href={{ url('info') }}>phpinfo Data</a>
+      {{-- <a href={{ url('info') }}>phpinfo Data</a> --}}
     </div>
   </div>
   </div>
